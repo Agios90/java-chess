@@ -123,7 +123,7 @@ try{
                 <li><a href="home">Home</a></li>
                 <li><a href="login">Sign In</a></li>
                 <li><a href="register">Register</a></li>
-                <li><a href="http://localhost:3000/#/">Play</a>
+                <li><a href="http://51.15.98.160:3000/#/">Play</a>
                 <li class="active"><a href="#">Tournaments</a></li>    
               </ul>
             </div>
@@ -202,7 +202,7 @@ try{
                                                    tournaments.get(i).getGames().get(0).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold" href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(0).getwToken() %>">Enter Game</a>
+                                                <a class="bold" href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(0).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -212,7 +212,7 @@ try{
                                                    tournaments.get(i).getGames().get(0).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(0).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(0).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -224,7 +224,7 @@ try{
                                                    tournaments.get(i).getGames().get(1).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(1).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(1).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -234,7 +234,7 @@ try{
                                                    tournaments.get(i).getGames().get(1).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(1).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(1).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -246,7 +246,7 @@ try{
                                                    tournaments.get(i).getGames().get(2).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(2).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(2).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -256,7 +256,7 @@ try{
                                                    tournaments.get(i).getGames().get(2).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(2).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(2).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -268,7 +268,7 @@ try{
                                                    tournaments.get(i).getGames().get(3).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(3).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(3).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -278,7 +278,7 @@ try{
                                                    tournaments.get(i).getGames().get(3).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(3).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(3).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -293,7 +293,7 @@ try{
                                                    tournaments.get(i).getGames().get(4).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(4).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(4).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -303,7 +303,7 @@ try{
                                                    tournaments.get(i).getGames().get(4).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(4).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(4).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -315,7 +315,7 @@ try{
                                                    tournaments.get(i).getGames().get(5).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(5).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(5).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -325,7 +325,7 @@ try{
                                                    tournaments.get(i).getGames().get(5).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(5).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(5).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 
@@ -340,7 +340,7 @@ try{
                                                    tournaments.get(i).getGames().get(6).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(6).getwToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(6).getwToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
                                         <li class="game game-spacer">&nbsp;</li>
@@ -350,7 +350,7 @@ try{
                                                    tournaments.get(i).getGames().get(6).getWinner().equals("TBD") 
                                                   ) 
                                                 { %>
-                                                <a class="bold"  href="http://localhost:3000/#/<%= tournaments.get(i).getGames().get(6).getbToken() %>">Enter Game</a>
+                                                <a class="bold"  href="http://51.15.98.160:3000/#/<%= tournaments.get(i).getGames().get(6).getbToken() %>">Enter Game</a>
                                             <% } %>
                                         </li>
 

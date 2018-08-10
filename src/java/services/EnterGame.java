@@ -79,9 +79,9 @@ public class EnterGame extends HttpServlet {
                 pstmt.executeUpdate();
                 
                 if (playerColor.equals("WHITE")) {
-                    response.sendRedirect("http://localhost:3000/#/"+wtoken);
+                    response.sendRedirect("http://51.15.98.160:3000/#/"+wtoken);
                 } else {
-                    response.sendRedirect("http://localhost:3000/#/"+btoken);
+                    response.sendRedirect("http://51.15.98.160:3000/#/"+btoken);
                 }
 
                 // Clean-up environment
