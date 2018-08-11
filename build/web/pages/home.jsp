@@ -36,7 +36,7 @@ try{
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="login">Sign In</a></li>
                 <li><a href="register">Register</a></li>
-                <li><a href="http://51.15.98.160:3000/#/">Play</a>
+                <li><a href="http://51.15.98.160/play">Play</a>
                 <li><a href="tournaments">Tournaments</a></li>    
               </ul>
             </div>
